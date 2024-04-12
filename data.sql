@@ -78,5 +78,3 @@ INSERT INTO mesas (numero, capacidad, ubicacion) VALUES
 (108, 4, 'Centro'),
 (109, 6, 'Terraza');
 
-
-
